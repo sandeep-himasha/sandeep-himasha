@@ -6,7 +6,7 @@ Drawing is my hobby. I use my own **vector** art and **raster** art on my web pr
 ## Current Highlights
 - 🔭 I’m currently working on my own warehouse management project
 - 🌱 I’m currently learning MVC PHP frameworks and nodeJS
-- 👯 I’m looking to collaborate on anything I'm interested.
+- 👯 I’m looking to collaborate on PHP based web project.
 - 💬 Ask me about PHP.
 - 📫 How to reach me: sandeephimasha@gmail.com
 
