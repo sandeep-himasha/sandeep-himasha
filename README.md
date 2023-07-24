@@ -1,5 +1,5 @@
 #  Full-Stack  web developer & an Illustrator
-### web development
+### Web development
 I develop websites using **PHP** for the backend and **MySQL** as a database. **CSS, Javascript, and Jquery** as frontend technologies.
 ### Illustrations
 Drawing is my hobby. I use my own **vector** art and **raster** art on my web projects. Additionally, I'm doing children's book illustrations as a freelancer.
